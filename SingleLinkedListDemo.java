@@ -27,7 +27,7 @@ public class SingleLinkedListDemo {
         singleLinkedList.list();
 
         HeroNode node = findLastIndexNode(singleLinkedList.getHead(),3);
-        System.out.println("res="+node);
+        System.out.println("res="+node+"i love 小李");
 //        System.out.println("有效个数为："+getLength(singleLinkedList.getHead()));
 //        修改
 //        HeroNode newHeroNode = new HeroNode(2,"yu02","update02");
